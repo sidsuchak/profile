@@ -1,0 +1,30 @@
+{
+  "TECHNICAL SKILLS": {
+    "Programming Languages": [
+      { "name": "HTML5", "icon": "../images/icons/html.svg" },
+      { "name": "CSS3", "icon": "/icons/css.svg" },
+      { "name": "JavaScript", "icon": "/icons/javascript.svg" },
+      { "name": "Bootstrap", "icon": "/icons/bootstrap.svg" },
+      { "name": "Redux", "icon": "/icons/html5.svg" },
+      { "name": "JSX", "icon": "/icons/html5.svg" },
+      { "name": "Typescript", "icon": "/icons/typescript.svg" },
+      { "name": "Android", "icon": "/icons/html5.svg" },
+      { "name": "GitHub", "icon": "/icons/git.svg" },
+      { "name": "Rest APIs", "icon": "/icons/html5.svg" }
+    ],
+    "Frameworks": [
+      { "name": "React", "icon": "/icons/react.svg" },
+      { "name": "Cypress", "icon": "/icons/html5.svg" },
+      { "name": "AG-Grid", "icon": "/icons/html5.svg" },
+      { "name": "React Testing Library", "icon": "/icons/html5.svg" },
+      { "name": "Micronaut", "icon": "/icons/html5.svg" }
+    ],
+    "Tools/IDE": [
+      { "name": "Figma", "icon": "/icons/figma.svg" },
+      { "name": "Git", "icon": "/icons/git.svg" },
+      { "name": "JIRA", "icon": "/icons/html5.svg" },
+      { "name": "VS Code", "icon": "/icons/html5.svg" },
+      { "name": "IntelliJ", "icon": "/icons/html5.svg" }
+    ]
+  }
+}

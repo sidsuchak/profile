@@ -1,0 +1,55 @@
+[
+  {
+    "id": "intern-xyz",
+    "title": "Software Development Engineer",
+    "company": "Dream11",
+    "period": "Nov 2021 - Present",
+    "description": "Worked on React-based UI components. Built features and learned responsive design and accessibility.",
+    "location": "Mumbai",
+    "responsibilities": [
+      "Led frontend development using JavaScript, ReactJS, and React Native, delivering scalable, production-ready features",
+      "Owned end-to-end feature delivery, from requirement analysis to deployment",
+      "Integrated SDKs and APIs (GraphQL/REST) in collaboration with backend teams",
+      "Improved application performance, code quality, and maintainability through optimization and refactoring",
+      "Reduced linting issues and enforced coding standards across the codebase",
+      "Developed scripts to remove unused assets, reducing repository size and build time",
+      "Collaborated with product managers, designers, and cross-functional teams to meet productrequirements",
+      "Implemented and maintained unit tests using Jest to ensure code reliability",
+      "Partnered with QA/SDET teams to enhance testing strategies",
+      "Contributed to mobile test automation using Java and Appium"
+    ],
+    "technologies": [
+      "React Native",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Bootstrap",
+      "Redux",
+      "JSX",
+      "Typescript"
+    ]
+  },
+  {
+    "id": "ui-abc",
+    "title": "Quality Engineer",
+    "company": "Zeus Learning",
+    "period": "Jun 2019 - Oct 2021",
+    "description": "Developed modern interfaces using TypeScript, implemented unit tests and CI/CD deployment with the team.",
+    "location": "Mumbai",
+    "responsibilities": [
+      "Experienced in Manual Testing with a strong grasp of various testing strategies like regression, smoke, and exploratory testing.",
+      "Worked in a SaaS-based edu-tech company, ensuring high product reliability and user satisfaction.",
+      "Collaborated with cross-functional teams to maintain top-notch product quality through all stages of development.",
+      "Successfully delivered multiple high-quality product releases aligned with business goals and timelines."
+    ],
+    "technologies": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Bootstrap",
+      "Redux",
+      "JSX",
+      "Typescript"
+    ]
+  }
+]
