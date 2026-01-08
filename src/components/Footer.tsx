@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { FaInstagram, FaFacebookF } from "react-icons/fa";
+import { FaInstagram } from "react-icons/fa";
 
 const FooterContainer = styled.footer`
   color: #f8fafc;

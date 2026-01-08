@@ -295,10 +295,10 @@ export default function CreativeExpressions() {
                 })}
               </CarouselWrapper>
               <NavButton onClick={prevImage} style={{ left: 10 }}>
-                ‹
+                ⬅️
               </NavButton>
               <NavButton onClick={nextImage} style={{ right: 10 }}>
-                ›
+                ➡️
               </NavButton>
             </ModalContent>
           </Overlay>

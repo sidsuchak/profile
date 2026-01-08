@@ -6,8 +6,8 @@ import Experience from "./components/Experience.tsx";
 import SkillsSection from "./components/SkillsSection.tsx";
 import ContactSection from "./components/ContactSection.tsx";
 import Footer from "./components/Footer.tsx";
-// import Papers from "./components/Papers.tsx";
-// import CreativeExpressions from "./components/CreativeExpressions.tsx";
+import Papers from "./components/Papers.tsx";
+import CreativeExpressions from "./components/CreativeExpressions.tsx";
 import Navbar from "./components/Navbar.tsx";
 
 function App() {

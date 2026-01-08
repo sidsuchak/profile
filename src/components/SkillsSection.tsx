@@ -9,18 +9,14 @@ import react from "../images/icons/react.svg";
 import git from "../images/icons/git.svg";
 import github from "../images/icons/github.svg";
 import android from "../images/icons/android.svg";
-import redux from "../images/icons/redux.svg";
 import jsx from "../images/icons/jsx.svg";
 import restApi from "../images/icons/restApi.svg";
-import cypress from "../images/icons/cypress.svg";
-import agGrid from "../images/icons/agGrid.svg";
 import testing from "../images/icons/testing.svg";
 import intellij from "../images/icons/intellij.svg";
 import vsCode from "../images/icons/vsCode.svg";
 import jira from "../images/icons/jira.svg";
-import micronaut from "../images/icons/micronaut.svg";
-import c from "../images/icons/c.svg";
-import cPlus from "../images/icons/c++.svg";
+import zustand from "../images/icons/zustand.svg";
+import cursor from "../images/icons/cursor.svg";
 
 const Section = styled.section`
   padding: 30px 40px;
@@ -101,7 +97,7 @@ const TECHNICAL_SKILLS = {
     { name: "CSS3", icon: css },
     { name: "JavaScript", icon: javascript },
     { name: "Bootstrap", icon: bootstrap },
-    { name: "Redux", icon: redux },
+    { name: "Zustand", icon: zustand },
     { name: "JSX", icon: jsx },
     { name: "Typescript", icon: typescript },
     { name: "Git", icon: git },
@@ -110,10 +106,8 @@ const TECHNICAL_SKILLS = {
   ],
   frameworks_and_libraries: [
     { name: "React", icon: react },
-    { name: "AG-Grid", icon: agGrid },
+    { name: "React-native", icon: react },
     { name: "React Testing Library", icon: testing },
-    { name: "Cypress", icon: cypress },
-    { name: "Micronaut", icon: micronaut },
   ],
   tools_and_IDE: [
     { name: "VS Code", icon: vsCode },
@@ -121,10 +115,7 @@ const TECHNICAL_SKILLS = {
     { name: "Figma", icon: figma },
     { name: "GitHub", icon: github },
     { name: "JIRA", icon: jira },
-  ],
-  additional_skills: [
-    { name: "C", icon: c },
-    { name: "C++", icon: cPlus },
+    { name: "Cursor", icon: cursor },
   ],
 };
 
