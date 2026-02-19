@@ -240,7 +240,7 @@ export default function Contact() {
         "service_cld1obm",
         "template_01hd4jo",
         formRef.current,
-        "HHjq2a_audgmieDEI"
+        "HHjq2a_audgmieDEI",
       )
       .then(
         () => {
@@ -250,7 +250,7 @@ export default function Contact() {
         (error) => {
           console.error("EmailJS Error:", error);
           setSuccess(false);
-        }
+        },
       );
   };
 
@@ -276,7 +276,7 @@ export default function Contact() {
               </IconWrapper>
               <Label>Twitter</Label>
               <MessageLink
-                href="https://x.com/SiddharthSuchak"
+                href="https://x.com/sidsuchak?s=21"
                 target="_blank"
                 rel="noreferrer"
               >

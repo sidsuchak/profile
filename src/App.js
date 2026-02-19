@@ -6,8 +6,6 @@ import Experience from "./components/Experience.tsx";
 import SkillsSection from "./components/SkillsSection.tsx";
 import ContactSection from "./components/ContactSection.tsx";
 import Footer from "./components/Footer.tsx";
-import Papers from "./components/Papers.tsx";
-import CreativeExpressions from "./components/CreativeExpressions.tsx";
 import Navbar from "./components/Navbar.tsx";
 
 function App() {
@@ -35,7 +33,7 @@ function App() {
           window.history.replaceState(null, "", `#${id}`);
         }
       },
-      { threshold: 0.6 }
+      { threshold: 0.6 },
     );
     sections.forEach(({ ref }) => {
       if (ref.current) observer.observe(ref.current);
@@ -63,10 +61,6 @@ function App() {
       <AboutMe ref={aboutRef} />
       <Experience />
       <SkillsSection />
-      {/* <div id="more">
-        <CreativeExpressions />
-        <Papers />
-      </div> */}
       <ContactSection />
       <Footer />
       <Navbar activeSection={activeSection} />
