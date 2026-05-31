@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
-import ProfileImg from "../images/profile.jpeg";
+import ProfileImg from "../images/profile.webp";
 import { FiDownload } from "react-icons/fi";
 
 const Section = styled.section`
