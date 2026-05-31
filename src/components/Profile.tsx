@@ -130,7 +130,9 @@ const DownloadButton = styled.a`
   text-decoration: none;
   cursor: pointer;
   box-shadow: 0 8px 16px rgba(59, 130, 246, 0.3);
-  transition: transform 0.2s ease, box-shadow 0.3s ease;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.3s ease;
   &:hover {
     transform: translateY(-2px);
     box-shadow: 0 12px 24px rgba(59, 130, 246, 0.5);
@@ -180,7 +182,7 @@ export default function Profile() {
               <FaLinkedin />
             </a>
           </IconRow>
-          <DownloadButton href="/SidLatestUpdated.pdf" download>
+          <DownloadButton href="/SiddharthRnResume.pdf" download>
             <Icon /> Download Resume
           </DownloadButton>
         </Left>

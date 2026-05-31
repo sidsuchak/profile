@@ -1,9 +1,36 @@
 [
   {
+    "id": "pro-lmn",
+    "title": "Founding Engineer (React Native)",
+    "company": "Dream Play",
+    "period": "Jan 2026 - Present",
+    "description": "I am a founding engineer at Dream Play, where I lead the development of our React Native-based mobile application.",
+    "location": "Mumbai",
+    "responsibilities": [
+      "Integrated SDKs and APIs (GraphQL/REST) in collaboration with backend teams",
+      "Implementd and integrated Payments SDK (IAP) for in-app purchases and subscriptions as well as different analytics SDKs (Google firebase) for user behavior tracking and performance monitoring",
+      "Collaborated with product managers, designers, and cross-functional teams to meet product requirements",
+      "Led frontend development using JavaScript, ReactJS, and React Native, delivering scalable, production-ready features",
+      "Owned end-to-end feature delivery, from requirement analysis to deployment",
+      "Improved application performance, code quality, and maintainability through optimization and refactoring",
+      "Reduced linting issues and enforced coding standards across the codebase",
+      "Built an AI-first product which summarizes App reviews from Google and Apple stores and sends it to the team on a daily basis, helping us stay on top of user feedback and quickly address any issues or concerns"
+    ],
+    "technologies": [
+      "React Native",
+      "ReactJS",
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Zustand",
+      "Typescript"
+    ]
+  },
+  {
     "id": "intern-xyz",
     "title": "Software Development Engineer",
     "company": "Dream11",
-    "period": "Nov 2021 - Present",
+    "period": "Nov 2021 - Dec 2025",
     "description": "Worked on React-based UI components. Built features and learned responsive design and accessibility.",
     "location": "Mumbai",
     "responsibilities": [
@@ -20,6 +47,7 @@
     ],
     "technologies": [
       "React Native",
+      "ReactJS",
       "HTML5",
       "CSS3",
       "JavaScript",
